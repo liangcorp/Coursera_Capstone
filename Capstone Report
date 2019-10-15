@@ -1,0 +1,12 @@
+Introduction
+This capstone project aims to identify where a new electric vehicle (EV) charging station should be placed in different cities (e.g. Toronto and New York). 
+
+The number of electric vehicles are increasing; therefore, the demand for charging stations is also increasing. It’s difficult to identify how many new charging stations are needed and the appropriate new locations for these stations. The city planner and EV charging station supplier need to take many attributes (e.g. traffic, local business, public properties) into consideration.
+
+Data
+The data involved in this project are the following:
+The maps of Toronto and New York.
+The concentration of business and public properties where people most likely to visits.
+The population of the city and it’s adoption of electric vehicles.
+
+These data will help to predict the number of future new electric vehicles in the city. The predicted number will be used as a reference for new EV charging stations. The concentration of business and public properties data will be used to identify new locations for new charging stations.
