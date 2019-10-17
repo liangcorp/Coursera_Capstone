@@ -7,6 +7,6 @@ Data
 The data involved in this project are the following:
 The maps of Toronto and New York.
 The concentration of business and public properties where people most likely to visits.
-The population of the city and it’s adoption of electric vehicles.
+The population of the city and its adoption of electric vehicles.
 
 These data will help to predict the number of future new electric vehicles in the city. The predicted number will be used as a reference for new EV charging stations. The concentration of business and public properties data will be used to identify new locations for new charging stations.
